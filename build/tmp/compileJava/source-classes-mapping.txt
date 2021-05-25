@@ -1,0 +1,8 @@
+model/Customer.java
+ model.Customer
+Service/CustomerServiceImpl.java
+ Service.CustomerServiceImpl
+Service/CustomerService.java
+ Service.CustomerService
+controller/CustomerServlet.java
+ controller.CustomerServlet
